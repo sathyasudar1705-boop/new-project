@@ -1,0 +1,16 @@
+.main{display: flex;
+background-color: orange;
+align-items: center;}
+nav{display: flex;
+    margin-left: 700px;
+gap: 120px;}
+.logo{
+    margin-left: 100px;
+}
+.nav a {
+    text-decoration: none;
+    cursor: pointer
+}
+.nav a :hover{
+    color: red;
+}
